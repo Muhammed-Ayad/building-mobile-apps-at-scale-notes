@@ -127,39 +127,5 @@ by **Gergely Orosz**
 
 بعض الـ Challenges مرتبطة مباشرة بالـ Flutter، وبعضها مرتبط بـ **Mobile Engineering** بشكل عام، وبعضها متعلق أكثر بالـ Architecture والـ Teams والـ Engineering Practices.
 
----
-
-# 📝 Challenges
-
-| # | Challenge | Status |
-|---|---|---|
-| 01 | State Management | ✅ |
-| 02 | Mistakes Are Hard to Revert | ⏳ |
-| 03 | The Long Tail of Old App Versions | ⏳ |
-| 04 | Deeplinks | ⏳ |
-| 05 | Push and Background Notifications | ⏳ |
-| ... | ... | ⏳ |
-| 39 | App Size | ⏳ |
-
----
-
-# 📂 Repository Structure
-
-```text
-building-mobile-apps-at-scale-notes/
-
-├── README.md
-│
-├── challenges/
-│   ├── 01-state-management/
-│   │   └── README.md
-│   │
-│   ├── 02-mistakes-are-hard-to-revert/
-│   │   └── README.md
-│   │
-│   ├── 03-old-app-versions/
-│   │   └── README.md
-│   │
-│   └── ...
-│
-└── ...
+ 
+ 
