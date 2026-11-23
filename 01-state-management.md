@@ -1,5 +1,9 @@
 # التحدي الأول من كتاب Building Mobile Apps at Scale
 
+🔗 [البوست على LinkedIn](https://ae.linkedin.com/posts/mohamedayaddev_github-muhammed-ayadbuilding-mobile-apps-at-scale-notes-activity-7498025786180931587-fxmt)
+
+---
+
 بدأت أقرأ كتاب **Building Mobile Apps at Scale** لـ **Gergely Orosz**، والكتاب بيتكلم بشكل عام عن **Mobile Development** والتحديات اللي بتظهر لما الـ Apps تكبر، مش عن Flutter تحديدا.
 
 أول حاجة شدتني كانت:
