@@ -26,10 +26,10 @@ by **Gergely Orosz**
 
 ## Part 1 — Challenges Due to the Nature of Mobile Applications
 
-1. [State Management](./01-state-management.md)
-2. [Mistakes Are Hard to Revert](./02-mistakes-are-hard-to-revert.md)
-3. [The Long Tail of Old App Versions](./03-old-app-versions.md)
-4. [Deeplinks](./04-deeplinks.md)
+1. [State Management](./01-state-management.md) — [البوست على LinkedIn](https://ae.linkedin.com/posts/mohamedayaddev_github-muhammed-ayadbuilding-mobile-apps-at-scale-notes-activity-7498025786180931587-fxmt)
+2. [Mistakes Are Hard to Revert](./02-mistakes-are-hard-to-revert.md) — [البوست على LinkedIn](https://ae.linkedin.com/posts/mohamedayaddev_flutter-mobiledevelopment-softwareengineering-activity-7525885213210521602-1BT6)
+3. [The Long Tail of Old App Versions](./03-old-app-versions.md) — [البوست على LinkedIn](https://ae.linkedin.com/posts/mohamedayaddev_flutter-mobiledevelopment-softwareengineering-activity-7527711622329516032-GvOq)
+4. [Deeplinks](./04-deeplinks.md) — [البوست على LinkedIn](https://www.linkedin.com/posts/mohamedayaddev_flutter-flutterdevelopment-mobiledevelopment-share-7530271911063277570-n_1F/)
 5. [Push and Background Notifications](./05-push-and-background-notifications.md)
 6. [App Crashes](./06-app-crashes.md)
 7. [Offline Support](./07-offline-support.md)
