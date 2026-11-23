@@ -1,6 +1,6 @@
 <div dir="rtl">
 
-# التحدي الرابع من كتاب Building Mobile Apps at Scale: الروابط العميقة (Deep Links)
+# التحدي الرابع من كتاب <span dir="ltr">Building Mobile Apps at Scale</span>: الروابط العميقة <span dir="ltr">(Deep Links)</span>
 
 🔗 [البوست على LinkedIn](https://www.linkedin.com/posts/mohamedayaddev_flutter-flutterdevelopment-mobiledevelopment-share-7530271911063277570-n_1F/)
 
@@ -24,7 +24,7 @@ https: mystore.com/products/123
 
 فيه تحديات لازم نفكر فيها أثناء تصميم الـNavigation Architecture
 
-## 1. التوافق مع الروابط القديمة (Backward Compatibility)
+## 1. التوافق مع الروابط القديمة <span dir="ltr">(Backward Compatibility)</span>
 
 بعد نشر التطبيق المستخدمين ممكن يشاركوا روابط لصفحات معينة
 
@@ -34,7 +34,7 @@ https: mystore.com/products/123
 
 علشان كده لازم تحافظ على الروابط القديمة أو توفر طريقة لتحويلها للمسارات الجديدة
 
-## 2. التعامل مع حالة التطبيق (App State)
+## 2. التعامل مع حالة التطبيق <span dir="ltr">(App State)</span>
 
 لازم تحدد سلوك التطبيق عند استقبال رابط في حالتين:
 
@@ -45,7 +45,7 @@ https: mystore.com/products/123
 
 مثلا، لو الصفحة محتاجة Login وجه المستخدم لتسجيل الدخول وبعدها رجعه للصفحة اللي كان عايز يوصل لها
 
-## 3. اختلاف التنفيذ بين المنصات (Platform Differences)
+## 3. اختلاف التنفيذ بين المنصات <span dir="ltr">(Platform Differences)</span>
 
 رغم إن Flutter بيوحد معظم كود التطبيق إعداد استقبال الروابط بيختلف بين Android وiOS.
 
@@ -56,7 +56,7 @@ https: mystore.com/products/123
 
 لكنها مختلفة عن App Links وUniversal Links لأنها مش بتوفر نفس التحقق من ملكية الدومين، وممكن تطبيق تاني يسجل نفس الـScheme
 
-## 4. التخطيط من البداية (Plan Ahead)
+## 4. التخطيط من البداية <span dir="ltr">(Plan Ahead)</span>
 
 تأجيل التفكير في Deep Linking لحد ما التطبيق يكبر ممكن يضطرك لتغييرات كبيرة في الـNavigation Architecture
 
