@@ -23,7 +23,7 @@ by **Gergely Orosz**
 
 الكتاب مقسم إلى **5 أجزاء**، وفيهم **39 Challenge**.
 
-الملاحظات المتاحة حاليًا للتحديات 1 إلى 4. باقي التحديات لسه ملاحظاتها مش مضافة، وهتتحول لروابط لما ملفاتها تتضاف.
+الملاحظات المتاحة حاليًا للتحديات 1 إلى 5. باقي التحديات لسه ملاحظاتها مش مضافة، وهتتحول لروابط لما ملفاتها تتضاف.
 
 ## Part 1 — Challenges Due to the Nature of Mobile Applications
 
@@ -31,7 +31,7 @@ by **Gergely Orosz**
 2. [Mistakes Are Hard to Revert](./02-mistakes-are-hard-to-revert.md)
 3. [The Long Tail of Old App Versions](./03-old-app-versions.md)
 4. [Deeplinks](./04-deeplinks.md)
-5. Push and Background Notifications
+5. [Push and Background Notifications](./05-push-notifications.md)
 6. App Crashes
 7. Offline Support
 8. Accessibility
